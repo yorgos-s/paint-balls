@@ -1,5 +1,5 @@
 # paint-balls
-procedural painting in JS
+procedural painting in JS -
 just draw!
 
 preview
